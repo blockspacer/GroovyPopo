@@ -1,0 +1,17 @@
+static const unsigned int STRM_BGM		= (unsigned)"BGM";
+static const unsigned int SE_POP		= (unsigned)"pop";
+static const unsigned int SE_FINGER		= (unsigned)"finger_2";
+static const unsigned int SE_CAT		= (unsigned)"cat_2";
+static const unsigned int SE_COIN		= (unsigned)"coin_2";
+static const unsigned int SE_CLEAR		= (unsigned)"clear";
+static const unsigned int SE_BABY		= (unsigned)"baby_2";
+static const unsigned int SE_STONE		= (unsigned)"stone_2";
+static const unsigned int SE_BOTTUN		= (unsigned)"bottun";
+static const unsigned int SE_FIRE		= (unsigned)"fire_2";
+static const unsigned int SE_EXPLOSION	= (unsigned)"explosion";
+static const unsigned int SE_SWING		= (unsigned)"swing_2";
+static const unsigned int SE_WATER		= (unsigned)"water";
+static const unsigned int SE_GRASS		= (unsigned)"grass";
+static const unsigned int SE_WATER_2	= (unsigned)"water_2";
+static const unsigned int SE_BREAK		= (unsigned)"break";
+static const unsigned int SE_FIREWORK	= (unsigned)"firework";
